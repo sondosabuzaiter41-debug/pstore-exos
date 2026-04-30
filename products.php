@@ -6,6 +6,9 @@ $products = [
     ["name" => "Hat", "price" => 15]
 ];
 // Task 2.4
+// Tested using PHP built in browser:
+// php -S localhost:8000=>opened by cmd 
+// then opened the link (http://localhost:8000/products.php)
 ?>
 <h1>Our Products</h1>
 <ul>
